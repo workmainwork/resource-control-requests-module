@@ -43,10 +43,6 @@ README.md                   # инструкция по сборке и запу
 
 ## Сборка и запуск проекта
 
-### Создание виртуального окружения
-
-#### Windows (PowerShell)
-
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
